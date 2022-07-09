@@ -343,12 +343,12 @@ function shareText(score) {
     }
     SubmitResults();
 
-    if (score === 114) return '祖冲之';
+    if (score === 150) return '祖冲之';
 
     if (score <= 49) return '逊啦';
     if (score <= 99) return '操你妈的爷是周几洋';
     if (score <= 149) return '日你奶奶爷是周念蜂';
-    return '萎缩';
+    return '给你脸给多了我他妈是周行善';
 }
 
 function toStr(obj) {
